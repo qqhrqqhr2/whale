@@ -1,5 +1,15 @@
 # Whale — WoW Fishing Assistant
 
+## 🐳 최신 버전 다운로드 / Download Latest Version
+
+### 🇰🇷 한국어
+**[Whale 최신 버전 다운로드 (Windows EXE)](https://github.com/qqhrqqhr2/whale/releases/latest)**
+
+### 🇺🇸 English
+**[Download the Latest Whale Release (Windows EXE)](https://github.com/qqhrqqhr2/whale/releases/latest)**
+
+---
+
 [한국어](#한국어) | [English](#english)
 
 ## 한국어
